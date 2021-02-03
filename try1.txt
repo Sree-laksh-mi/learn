@@ -3,3 +3,4 @@ This is the first file
 this is second line
 this is the third line
 RITM try
+new line added
